@@ -47,11 +47,6 @@ Files:
 * tmdb_5000_movies.csv
 * tmdb_5000_credits.csv
 
-## Application Screenshots
-
-![Home Page](Working_ss\Screenshot 2026-06-02 005928.png)
-![Home Page](Working_ss\Screenshot 2026-06-02 010024.png)
-![Home Page](Working_ss\Screenshot 2026-06-02 010140.png)
 
 ## 👩‍💻 Author
 
