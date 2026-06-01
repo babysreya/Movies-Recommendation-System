@@ -49,9 +49,9 @@ Files:
 
 ## Application Screenshots
 
-Working_ss\Screenshot 2026-06-02 005928.png
-Working_ss\Screenshot 2026-06-02 010024.png
-Working_ss\Screenshot 2026-06-02 010140.png
+!(Working_ss\Screenshot 2026-06-02 005928.png)
+!(Working_ss\Screenshot 2026-06-02 010024.png)
+!(Working_ss\Screenshot 2026-06-02 010140.png)
 
 ## 👩‍💻 Author
 
